@@ -3,11 +3,13 @@
 
 Click Here to View a Portfolio of some of my projects.
 
+
 ## Profile
 
 An enthusiastic Full Stack Web Developer with over six years experience in data management and customer service. I have a demonstrated ability to create websites, documentation, applications, and databases.
 
 My passion lies in web design but I also have many years of customer service, data entry, and office clerical experience. Having completed my Diploma of IT in Web Development and my Python Certification, I’m looking for a new challenge as a developer as I complete my Bachelor’s degree part-time.
+
 
 ## Technical Skills
 
@@ -27,7 +29,9 @@ My passion lies in web design but I also have many years of customer service, da
 |                      | Apache              |                     |                            |
 |                      | RestAPI             |                     |                            |
 
+
 ## Work Experience
+
 
 ### Systems Analyst
 
@@ -45,7 +49,9 @@ My additional duties included:
 
 ·       Drafting and preparing application Use-Cases, and User Personas.
 
-·       Surveying end-users.  
+·       Surveying end-users.
+
+
   
 ### Customer Account Services Officer
 
@@ -61,6 +67,8 @@ As a CAS Officer with the ATO, I was responsible for managing accounts in a high
 
 ·       Applying data program techniques and procedures when handling client information.
 
+
+
 ### Business Account Services Officer (contract)
 
 **SERCO – JANUARY 2019 – JANUARY 2020**
@@ -74,6 +82,8 @@ As a Business Account Services Officer at Serco, I was actively involved in cust
 ·       Managing business taxation duties and requirements.
 
 Handling BAS and GST forms, including data management.
+
+
 
 ### Customer Account Services Officer
 
@@ -89,19 +99,26 @@ As a CAS Officer with the ATO, I completed a series of clerical and data entry d
 
 ·       Minimising the risk of customer debt by proactively monitoring accounts
 
+
+
 ## Education and Certification
+
 
 **Charles Stuart University – 2025**
 Bachelor of Information Technology
 
+
 **Australian Institute of ICT (AIICT) – 2022**
 Diploma in IT – Web Development (Back-End)
+
 
 **TAFE-NSW  – 2022**
 Statement of Attainment — Python Programming
 
+
 **UPSKILLED – 2020**
 Certificate IV in Web-Based Technologies
+
 
 ---
 
