@@ -16,7 +16,7 @@ My passion lies in web design but I also have many years of customer service, da
 
 **Charles Stuart University – 2025**
 
-Bachelor of Information Technology
+Bachelor of Information Technology (Web Development and Software Engineering)
 
 ---
 
