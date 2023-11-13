@@ -1,7 +1,7 @@
 # Full Stack Web and Software Developer
 ## Portfolio
 
-Click Here to View a Portfolio of some of my projects.
+[Click Here to View a Portfolio of some of my projects.](https://darcy-nr.github.io/portfolio/)
 
 
 ## Profile
@@ -9,6 +9,24 @@ Click Here to View a Portfolio of some of my projects.
 An enthusiastic Full Stack Web Developer with over six years experience in data management and customer service. I have a demonstrated ability to create websites, documentation, applications, and databases.
 
 My passion lies in web design but I also have many years of customer service, data entry, and office clerical experience. Having completed my Diploma of IT in Web Development and my Python Certification, I’m looking for a new challenge as a developer as I complete my Bachelor’s degree part-time.
+
+## Education and Certification
+
+
+**Charles Stuart University – 2025**
+Bachelor of Information Technology
+
+
+**Australian Institute of ICT (AIICT) – 2022**
+Diploma in IT – Web Development (Back-End)
+
+
+**TAFE-NSW  – 2022**
+Statement of Attainment — Python Programming
+
+
+**UPSKILLED – 2020**
+Certificate IV in Web-Based Technologies
 
 
 ## Technical Skills
@@ -98,27 +116,6 @@ As a CAS Officer with the ATO, I completed a series of clerical and data entry d
 ·       Undertaking identity verification and form verification procedures.
 
 ·       Minimising the risk of customer debt by proactively monitoring accounts
-
-
-
-## Education and Certification
-
-
-**Charles Stuart University – 2025**
-Bachelor of Information Technology
-
-
-**Australian Institute of ICT (AIICT) – 2022**
-Diploma in IT – Web Development (Back-End)
-
-
-**TAFE-NSW  – 2022**
-Statement of Attainment — Python Programming
-
-
-**UPSKILLED – 2020**
-Certificate IV in Web-Based Technologies
-
 
 ---
 
