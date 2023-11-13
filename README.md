@@ -12,22 +12,19 @@ My passion lies in web design but I also have many years of customer service, da
 
 ## Education and Certification
 
-
+---
 **Charles Stuart University – 2025**
 Bachelor of Information Technology
-
-
+---
 **Australian Institute of ICT (AIICT) – 2022**
 Diploma in IT – Web Development (Back-End)
-
-
+---
 **TAFE-NSW  – 2022**
 Statement of Attainment — Python Programming
-
-
+---
 **UPSKILLED – 2020**
 Certificate IV in Web-Based Technologies
-
+---
 
 ## Technical Skills
 
