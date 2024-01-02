@@ -20,7 +20,7 @@ Bachelor of Information Technology (Web Development and Software Engineering)
 
 **WITH HONORS:**
 
-- CSU Executive Dean's Award -- Academic Achievement
+- Charles Stuart University Executive Dean's Award -- Outstanding Academic Achievement
 
 ---
 
