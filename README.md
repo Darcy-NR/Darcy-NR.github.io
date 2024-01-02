@@ -18,6 +18,10 @@ My passion lies in web design but I also have many years of customer service, da
 
 Bachelor of Information Technology (Web Development and Software Engineering)
 
+**WITH HONORS:**
+
+- CSU Executive Dean's Award -- Academic Achievement
+
 ---
 
 **Australian Institute of ICT (AIICT) – 2022**
