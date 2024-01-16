@@ -68,7 +68,7 @@ Certificate IV in Web-Based Technologies
 
 **CHARLES STURT UNIVERSITY – JULY 2023 – OCTOBER 2023**
 
-As a Systems Analyst at Charles Sturt University, I was responsible for managing project functional requirements for a staff and faculty bulletin board application overhaul. I liased with different departments including development, UX, Web Development and Support Desk.
+As a Systems Analyst at Charles Sturt University, I was responsible for managing project functional requirements for a staff and faculty bulletin board application overhaul. I liaised with different departments including development, UX, Web Development and Support Desk.
 
 My additional duties included:
 
