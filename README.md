@@ -134,6 +134,6 @@ As a CAS Officer with the ATO, I completed a series of clerical and data entry d
 
 ## Links
 
-[LinkedIn](https://github.com/Darcy-NR)
+[LinkedIn](https://www.linkedin.com/in/nicholas-darcy-b62700210/)
 
-[Portfolio]([https://github.com/Darcy-NR](https://darcy-nr.github.io/portfolio/)https://darcy-nr.github.io/portfolio/)
+[Portfolio]([https://github.com/Darcy-NR](https://darcy-nr.github.io/portfolio/)
