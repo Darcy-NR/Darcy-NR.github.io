@@ -1,4 +1,4 @@
-# Full Stack Web and Software Developer
+# Full Stack Web and Software Developer -- Business and Systems Analyst -- Data and Database Design
 ## Portfolio
 
 [Click Here to View a Portfolio of some of my projects.](https://darcy-nr.github.io/portfolio/)
@@ -6,9 +6,9 @@
 
 ## Profile
 
-An enthusiastic Full Stack Web Developer with over six years experience in data management and customer service. I have a demonstrated ability to create websites, documentation, applications, and databases.
+An enthusiastic IT professional with over six years experience in software, data management and customer service. I have a demonstrated ability to create software, websites, documentation, applications, and databases.
 
-My passion lies in web design but I also have many years of customer service, data entry, and office clerical experience. Having completed my Diploma of IT in Web Development and my Python Certification, I’m looking for a new challenge as a developer as I complete my Bachelor’s degree part-time.
+My passion lies in data analysis, I am most in my element when I get to solve more abstract problems, and answer questions with data, mathematics, and statistics; be it on the smaller side tools such as bespoke simulations and graphing, to the higher end cutting edge of data science in machine learning and predictive analysis programs. I pride myself on being an analyst who’s also a subject matter expert in software.
 
 ## Education and Certification
 
@@ -51,17 +51,30 @@ Certificate IV in Web-Based Technologies
 | JavaScript           | C#                  | SQL                 | Adobe Creative Suite       |
 | XML                  | Selenium            | MongoDB             | Affinity Suite             |
 | React                | Rust                | PostgreSQL          | Graphic Design             |
-| Vue                  | Docker              |                     | Design Documents           |
-| Angular              | WordPress           |                     | Customer Service           |
+| Vue                  | Docker              | Systems Analysis    | Design Documents           |
+| Angular              | WordPress           | Grafana             | Customer Service           |
 | Typescript           | E-Commerce          |                     | XAMPP                      |
-| jQuery               | CMS                 |                     |                            |
-|                      | Selenium            |                     |                            |
-|                      | WooCommerce         |                     |                            |
+| jQuery               | CMS                 |                     |  Dashboarding              |
+| NumPy                | Selenium            |                     |                            |
+| Network Forensics    | WooCommerce         |                     |                            |
 |                      | Apache              |                     |                            |
 |                      | RestAPI             |                     |                            |
 
 
 ## Work Experience
+
+### Software Developer
+**PAIRTREE INTELLIGENCE - AUGUST 2024 - ONGOING**
+As a developer at Pairtree, I worked with senior developers in an Agile role to maintain and assist with the development and upgrade of a data aggregation in a client facing software system, primarily regarding input from IoT objects on farms such as scales, hydrometers, anemometers and weather tracking stations.
+My additional duties included:
+
+·	Back-end development in C#
+
+·	API testing and mapping.
+
+·	Maintaining and managing DTOs
+
+·	Managing and maintaining a PostGreSQL Database as well as its functions and views.
 
 
 ### Systems Analyst
