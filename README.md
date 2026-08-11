@@ -63,8 +63,21 @@ Certificate IV in Web-Based Technologies
 
 ## Work Experience
 
+### Software Development and Consulting
+**IBM Australia - MARCH 2025 - ONGOING**
+As a consultant at IBM I have participated in many roles with clients across the country, including major private enterprise groups, and public sector infrastructure upgrades. Primarily involving upgrading and up-scaling Asset Management Software. Additional duties include:
+
+·	Front and Back End Software Development
+
+·	Database Management
+
+·	Performance and Quality Assurance Testing
+
+·	Liaising with Clients in a Business Analyst role
+
+
 ### Software Developer
-**PAIRTREE INTELLIGENCE - AUGUST 2024 - ONGOING**
+**PAIRTREE INTELLIGENCE - JULY 2024 - DECEMBER 2025**
 As a developer at Pairtree, I worked with senior developers in an Agile role to maintain and assist with the development and upgrade of a data aggregation in a client facing software system, primarily regarding input from IoT objects on farms such as scales, hydrometers, anemometers and weather tracking stations.
 My additional duties included:
 
@@ -95,8 +108,6 @@ My additional duties included:
 
 ·       Surveying end-users.
 
-
-  
 ### Customer Account Services Officer
 
 **AUSTRALIAN TAXATION OFFICE – MARCH 2020 – MARCH 2022**
